@@ -14,8 +14,8 @@ repository = "https://github.com/1011-git/geo-buffer"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-geo-types = "0.7.9"
-geo = "0.24.1"
+geo-types = "0.7.18"
+geo = "0.32.0"
 
 [dev-dependencies]
 geo-svg = "0.5.0"

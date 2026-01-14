@@ -15,7 +15,7 @@ repository = "https://github.com/1011-git/geo-buffer"
 
 [dependencies]
 geo-types = "0.7.18"
-geo = "0.32.0"
+geo = "0.29.3"
 
 [dev-dependencies]
 geo-svg = "0.5.0"
